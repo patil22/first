@@ -4,20 +4,14 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Navbar from './Components/Navbar';
 import './index.css';
-import App from './App';
+
 import reportWebVitals from './reportWebVitals';
 import Textform from './Components/Textform';
 import Homepage from './Pages/Homepage'
- import Contactus from './Pages/Contactus'
- import Navbar from  './Components/Navbar';
-
-
-{/* 
 
 
 
 
-*/ }
 
 const configRouting = (
 
